@@ -5,7 +5,7 @@
 - установил Git
 - установил Python
 - создал первый репозиторий
-# Lesson 1
+# Lesson 2
 
 Hello Git!
 
